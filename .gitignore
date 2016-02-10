@@ -104,6 +104,9 @@ $RECYCLE.BIN/
 .Trash-*
 
 # TypeSctipt
-app/*.js
-app/*.js.map
+*.js
+*.js.map
+
+# ndenv
+.node-version
 
